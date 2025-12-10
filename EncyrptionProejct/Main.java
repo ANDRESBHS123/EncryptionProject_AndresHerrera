@@ -9,18 +9,18 @@ class Main {
    
     // Array1: Vowel characters
     char[] sub = new char[5];
-    sub[0] = 'q';
-    sub[1] = 'w';
-    sub[2] = 'e';
-    sub[3] = 'r';
-    sub[4] = 't';
+    sub[0] = 'a';
+    sub[1] = 'e';
+    sub[2] = 'i';
+    sub[3] = 'o';
+    sub[4] = 'u';
     // Array2: Unicode characters
     char[] sub2 = new char[5];
-    sub2[0] = '\u2663';  // Club
-    sub2[1] = '\u2660';  // Spade
-    sub2[2] = '\u2665';  // Heart
-    sub2[3] = '\u2666';  // Diamond
-    sub2[4] = '\u2836';  // Braille symbol
+     sub2[0] = '\u2112';  // Club
+     sub2[1] = '\u2113';  // Spade
+     sub2[2] = '\u2114';  // Heart
+     sub2[3] = '\u2115';  // Diamond
+     sub2[4] = '\u2120';  // Braille symbol
 
     
     // Encoding the plaintext:
