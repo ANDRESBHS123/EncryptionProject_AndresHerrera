@@ -16,11 +16,11 @@ class Main {
     sub[4] = 'u';
     // Array2: Unicode characters
     char[] sub2 = new char[5];
-     sub2[0] = '\u2112';  // Club
-     sub2[1] = '\u2113';  // Spade
-     sub2[2] = '\u2114';  // Heart
-     sub2[3] = '\u2115';  // Diamond
-     sub2[4] = '\u2120';  // Braille symbol
+     sub2[0] = '\u2112';  // Script Capital L
+     sub2[1] = '\u2113';  // Script Small L
+     sub2[2] = '\u2114';  // L B Bar Symbol
+     sub2[3] = '\u2115';  // Double Struck Capital N
+     sub2[4] = '\u2120';  // Service Mark 
 
     
     // Encoding the plaintext:
