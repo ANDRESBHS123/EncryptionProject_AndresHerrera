@@ -9,11 +9,11 @@ class Main {
    
     // Array1: Vowel characters
     char[] sub = new char[5];
-    sub[0] = 'a';
-    sub[1] = 'e';
-    sub[2] = 'i';
-    sub[3] = 'o';
-    sub[4] = 'u';
+    sub[0] = 'q';
+    sub[1] = 'w';
+    sub[2] = 'e';
+    sub[3] = 'r';
+    sub[4] = 't';
     // Array2: Unicode characters
     char[] sub2 = new char[5];
     sub2[0] = '\u2663';  // Club
