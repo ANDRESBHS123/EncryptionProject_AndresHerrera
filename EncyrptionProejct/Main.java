@@ -20,8 +20,8 @@ class Main {
      sub2[1] = '\u2113';  // Script Small L
      sub2[2] = '\u2114';  // L B Bar Symbol
      sub2[3] = '\u2115';  // Double Struck Capital N
-     sub2[4] = '\u2120';  // Service Mark 
-
+     sub2[4] = '\u2120';  // Service Mark
+     
     
     // Encoding the plaintext:
     String file = Input.readFile("Original.txt");
